@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\bin\Release\net8.0\v20_decrypt.exe
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\bin\Release\net8.0\v20_decrypt.deps.json
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\bin\Release\net8.0\v20_decrypt.runtimeconfig.json
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\bin\Release\net8.0\v20_decrypt.dll
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\bin\Release\net8.0\v20_decrypt.pdb
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\v20_decrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\v20_decrypt.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\v20_decrypt.AssemblyInfo.cs
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\v20_decrypt.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\v20_decrypt.dll
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\refint\v20_decrypt.dll
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\v20_decrypt.pdb
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\v20_decrypt.genruntimeconfig.cache
+C:\Users\1\source\repos\v20_decrypt\v20_decrypt\obj\Release\net8.0\ref\v20_decrypt.dll
